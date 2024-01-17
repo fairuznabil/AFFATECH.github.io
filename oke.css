@@ -1,0 +1,28 @@
+ .container {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+   
+
+ }
+
+body {
+    background-color: #fffbe7;
+}
+
+.damn {
+    background-color: white;
+   display: flex;
+}
+
+.card1 {
+    background-color: aqua;
+    justify-content: center;
+    flex-direction: row;
+}
+
+H1 {
+    flex-direction: column;
+}
+     

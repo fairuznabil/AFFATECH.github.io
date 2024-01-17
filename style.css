@@ -1,0 +1,63 @@
+
+
+ 
+
+.container-fluid{
+    background-color: gainsboro
+}
+
+ 
+
+.jumbotron{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: top 2rem;
+}
+
+
+body{
+    background :#fffbe7
+}
+
+
+
+
+.display-4 {
+     
+    color: black;}
+
+    .lead {
+        color: brown;
+    }
+
+.alert{
+    height: 50%;
+    display: flex;
+}
+
+.navbar-brand{
+    color: #ffff
+}
+ 
+
+.collapse{
+    background-color: beige;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+ 
+.all {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+     
+}
+ 
+
+
+
+
